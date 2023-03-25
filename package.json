@@ -1,6 +1,9 @@
 {
-  "name": "deliveroo-js-client",
-  "private": true,
+  "name": "@unitn-asa/deliveroo-js-dev-kit",
+  "version": "0.0.4",
+  "description": "Deliveroo.js Development Kit - Autonomous Software Agents - 2023",
+  "author": "Marco Robol <marco.robol@unitn.it>",
+  "license": "ISC",
   "workspaces": [
     "packages/*"
   ],

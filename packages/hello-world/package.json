@@ -2,7 +2,7 @@
   "name": "@unitn-asa/hello-world",
   "version": "0.0.4",
   "description": "> TODO: description",
-  "author": "Marco Robol <marco89mr@gmail.com>",
+  "author": "Marco Robol <marco.robol@unitn.it>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/hello-world.js",
@@ -17,8 +17,12 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unitn-ASA/DeliverooDevKit.js.git"
+  },
+  "gitHead": "4db2f4cbd2a5c2910640b0b7c8636196efcf8b23",
   "scripts": {
     "test": "node ./__tests__/hello-world.test.js"
-  },
-  "gitHead": "4db2f4cbd2a5c2910640b0b7c8636196efcf8b23"
+  }
 }
