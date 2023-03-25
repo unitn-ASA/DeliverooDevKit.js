@@ -1,0 +1,10 @@
+{
+  "name": "deliveroo-js-client",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.6.1"
+  }
+}

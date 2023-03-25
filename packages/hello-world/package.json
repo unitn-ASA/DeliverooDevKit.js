@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Marco Robol <marco89mr@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/hello-world.js",
+  "bin": {
+    "say-hello": "./cli.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "bin": "bin",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/hello-world.test.js"
+  }
+}
