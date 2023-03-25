@@ -12,5 +12,8 @@
     "@unitn-asa/hello-world": "^0.0.13",
     "hello-world": "^0.0.2"
   },
-  "gitHead": "68f33df33abbe38c489dc25d682d0a86941d6d3e"
+  "gitHead": "08d98ce3f9c8ee7d47dd7f164db66474846eb2d8",
+  "publishConfig": {
+    "access": "public"
+  }
 }
