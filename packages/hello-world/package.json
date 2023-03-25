@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/unitn-ASA/DeliverooDevKit.js.git"
   },
-  "gitHead": "e81489200e6ef4e73c0a03a4a819a5052f56dd14",
+  "gitHead": "e205f9c831e8229b50a7c588fb6022875cac0b01",
   "scripts": {
     "test": "node ./__tests__/hello-world.test.js"
   },
