@@ -1,6 +1,6 @@
 {
-  "name": "hello-world",
-  "version": "0.0.2",
+  "name": "@marcorobol/hello-world",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Marco Robol <marco89mr@gmail.com>",
   "homepage": "",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "node ./__tests__/hello-world.test.js"
   },
-  "gitHead": "ba4621db010964f0188b14b6f07ce9738f554a74"
+  "gitHead": "4db2f4cbd2a5c2910640b0b7c8636196efcf8b23"
 }
