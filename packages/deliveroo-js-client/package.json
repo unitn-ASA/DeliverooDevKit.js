@@ -1,8 +1,6 @@
 {
   "name": "@unitn-asa/deliveroo-js-client",
-  "version": "0.0.15",
-  "name": "deliveroo-js-client",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "",
   "main": "index.js",
   "scripts": {
