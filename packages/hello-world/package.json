@@ -1,6 +1,6 @@
 {
   "name": "@unitn-asa/hello-world",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "> TODO: description",
   "author": "Marco Robol <marco.robol@unitn.it>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/unitn-ASA/DeliverooDevKit.js.git"
   },
-  "gitHead": "e205f9c831e8229b50a7c588fb6022875cac0b01",
+  "gitHead": "68f33df33abbe38c489dc25d682d0a86941d6d3e",
   "scripts": {
     "test": "node ./__tests__/hello-world.test.js"
   },
