@@ -1,0 +1,15 @@
+{
+  "name": "deliveroo-js-client",
+  "version": "0.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@unitn-asa/hello-world": "file:../hello-world",
+    "hello-world": "^0.0.2"
+  }
+}
