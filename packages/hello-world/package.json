@@ -1,6 +1,6 @@
 {
   "name": "@unitn-asa/hello-world",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "> TODO: description",
   "author": "Marco Robol <marco.robol@unitn.it>",
   "homepage": "",
@@ -15,7 +15,8 @@
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "lib",
+    "cli.js"
   ],
   "repository": {
     "type": "git",
@@ -27,8 +28,5 @@
   },
   "scripts": {
     "test": "node ./__tests__/hello-world.test.js"
-  },
-  "dependencies": {
-    "hello-world": "^0.0.2"
   }
 }

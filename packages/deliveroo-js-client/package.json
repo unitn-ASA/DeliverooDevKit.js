@@ -1,6 +1,6 @@
 {
-  "name": "deliveroo-js-client",
-  "version": "0.0.14",
+  "name": "@unitn-asa/deliveroo-js-client",
+  "version": "0.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@unitn-asa/hello-world": "^0.0.14",
-    "hello-world": "^0.0.2"
+    "@unitn-asa/hello-world": "^0.0.15"
   },
   "gitHead": "08d98ce3f9c8ee7d47dd7f164db66474846eb2d8",
   "publishConfig": {
