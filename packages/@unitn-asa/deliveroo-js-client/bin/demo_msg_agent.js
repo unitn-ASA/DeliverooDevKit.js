@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import * as config from "../../../config.js";
+import * as config from "../../../../config.js";
 import { DeliverooApi } from "../index.js.js";
 
 const client = new DeliverooApi( config.host, config.token )

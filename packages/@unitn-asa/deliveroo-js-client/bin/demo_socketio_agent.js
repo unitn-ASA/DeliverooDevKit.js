@@ -1,6 +1,6 @@
 #!/usr/bin/env node
+import * as config from "../../../../config.js";
 import { io } from "socket.io-client";
-import * as config from "../../../config.js";
 
 
 var socket = io( config.host, {
